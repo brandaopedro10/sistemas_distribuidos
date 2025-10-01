@@ -6,7 +6,7 @@ Este repositório reúne duas práticas iniciais baseadas no tutorial oficial do
 
 ## 🔧 Requisitos
 
-* **Python 3.x** instalado
+* **Python 3.9** instalado
 * Instalação da dependência `pika`:
 
   ```bash
